@@ -1,15 +1,15 @@
 # Tunisian Tourist Destination Recommendation System
 
 ## Introduction
-This project is a **recommendation system prototype** for Tunisian tourist destinations, built using Python and geospatial tools. It helps users discover tourist attractions by leveraging geospatial data and providing map-based recommendations.
+This project is a **recommendation system prototype** for Tunisian tourist destinations, done by me and my colleague and built using Python and geospatial tools. It helps users discover tourist attractions by leveraging geospatial data and providing map-based recommendations.
 
 ---
 
 ## Features
-- Recommend tourist destinations across Tunisia based on user preferences and proximity.
+- Recommend tourist destinations across Tunisia based on geospatial data.
 - Visualize recommendations on an interactive map using geospatial tools.
-- Filter results by category (e.g., historical landmarks, beaches, mountains).
-- Real-time geolocation support for nearby recommendations.
+- Show the full roads towards those recommandations.
+- Give a full Tunisian map.
 
 ---
 
