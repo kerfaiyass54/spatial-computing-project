@@ -32,6 +32,8 @@ This project is a **recommendation system prototype** for Tunisian tourist desti
 1. Install Python 3.x.
 2. Install the required Python libraries.
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 ### Steps to Run
 1. Clone the repository:
    ```bash
