@@ -1,10 +1,8 @@
 
 # 🌍 Tunisian Tourist Destination Recommendation System
 
-![GitHub stars](https://img.shields.io/github/stars/kerfaiyass54/spatial-computing-project?style=social)
-![GitHub forks](https://img.shields.io/github/forks/kerfaiyass54/spatial-computing-project?style=social)
-![GitHub issues](https://img.shields.io/github/issues/kerfaiyass54/spatial-computing-project)
-![GitHub license](https://img.shields.io/github/license/kerfaiyass54/spatial-computing-project)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,flask)](https://skillicons.dev)
+
 
 **A data-driven, AI-powered recommendation system for discovering Tunisia's hidden gems and iconic landmarks through geospatial analysis and visual storytelling.**
 
@@ -13,10 +11,15 @@
 ## ✨ Features
 
 ✅ **Geospatial Analysis** – Analyze thousands of tourist photos to identify popular destinations
+
 ✅ **Interactive Map Visualization** – Explore Tunisia with an interactive map showing hotspots
+
 ✅ **AI-Generated Travel Guides** – Get rich, descriptive guides for each location using advanced NLP
+
 ✅ **Historical & Cultural Insights** – Discover Tunisia's rich heritage through curated content
+
 ✅ **Multi-Modal Recommendations** – Combine visual data with textual descriptions for comprehensive insights
+
 ✅ **OpenStreetMap Integration** – Detailed maps with routes to popular destinations
 
 ---
@@ -182,30 +185,6 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-
-
-### FAQ
-
-**Q: How accurate are the recommendations?**
-A: The system uses geospatial clustering and AI-generated descriptions. Accuracy depends on the quality and quantity of available data.
-
-**Q: Can I use this for commercial purposes?**
-A: Yes, under the MIT License. However, ensure you comply with Flickr's terms of service regarding data usage.
-
-**Q: How can I add more locations?**
-A: Add geotagged photos to your dataset and run the data processing script to update the recommendations.
-
-
-
-## 🚀 Get Started Today!
-
-Ready to explore Tunisia's hidden gems? Clone the repository, set up your environment, and dive into the code:
-
-```bash
-git clone https://github.com/kerfaiyass54/spatial-computing-project.git
-cd spatial-computing-project
-python webapp.py
-```
 
 Visit `http://localhost:5000` to start your journey!
 
